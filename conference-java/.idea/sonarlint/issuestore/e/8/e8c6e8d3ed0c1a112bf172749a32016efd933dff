@@ -1,0 +1,17 @@
+
+V	java:S125!"<This block of commented-out lines of code should be removed.(à‡şÿÿÿÿ
+x
+java:S1128"VRemove this unused import 'com.pluralsight.repository.HibernateSpeakerRepositoryImpl'.(¦ˆ¸şıÿÿÿÿ8š«‰ã/
+k
+java:S1128"IRemove this unused import 'com.pluralsight.repository.SpeakerRepository'.(–ñÿøÿÿÿÿ8š«‰ã/
+e
+java:S1128"CRemove this unused import 'com.pluralsight.service.SpeakerService'.(æÙƒ‚ÿÿÿÿÿ8š«‰ã/
+i
+java:S1128"GRemove this unused import 'com.pluralsight.service.SpeakerServiceImpl'.(Ó¹Ùÿÿÿÿÿ8š«‰ã/
+q
+java:S1128"TRemove this unused import 'org.springframework.beans.factory.config.BeanDefinition'.(µ®8š«‰ã/
+k
+java:S1128
+"IRemove this unused import 'org.springframework.context.annotation.Scope'.(şè®€ÿÿÿÿÿ8š«‰ã/
+0
+java:S1220""Move this file to a named package.
